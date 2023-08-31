@@ -12,6 +12,7 @@ The dataset we are going to be analysing contains data and several metrics of wo
 
 ![sd_vs_age](https://github.com/Hamza-149/sleep-health-analysis/assets/69048367/7d4143e4-447a-4b7d-b3db-7db9f652012b)
 ![sd vs other features](https://github.com/Hamza-149/sleep-health-analysis/assets/69048367/416a8f44-e4bc-4daa-bfa3-f17105ac769b)
+![sd vs other features_violinplot](https://github.com/Hamza-149/sleep-health-analysis/assets/69048367/026be9ff-2a66-4d13-9949-297deb47e27f)
 
 These are the infernces we have made from the above charts that we plotted:
 
